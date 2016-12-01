@@ -1,0 +1,26 @@
+% We are given the following scenario
+% g=alpha*f1+(1-alpha)*f2
+% h=beta*f1+(1-beta)*f2
+% We are given two sets of data and one is from g with n1 data and the other is from h with n2 data
+% f1 and f2 are Gumbel distributions
+% Now we want to use EM to find the proportions as well as the distributions
+
+% The following is the outline of this algorithm
+% 1. Initialize the classifiers for each x, e.g. K-mean
+% repeat the following:
+% 2. For 1st dataset apply the Expectation step
+% 3. For 1st dataset apply M-step
+% 4. For 2nd dataset apply E-step
+% 5. For 2nd dataset apply M-step
+
+% Alternative outline of this algorithm
+% 1. Initialization of the membership
+% repeat:
+% 2. Apply E-step for two datasets independently
+% 3. Apply M-step to the combined dataset
+
+
+% References:
+% SAR IMAGES AS MIXTURES OF GAUSSIAN MIXTURES,Peter Orbanz and Joachim M. Buhmann,Institute of Computational Science, ETH Zurich
+
+% Note : our gumbel distributions follow the definition in matlab, that is the gumbel distribution have diminishing tails on the left hand side
