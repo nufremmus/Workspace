@@ -1,0 +1,141 @@
+performance for each sample:
+sample_number   Naive_inference 
+0  0.333333
+performance for each sample:
+sample_number   Naive_inference 
+1  0.333333
+performance for each sample:
+sample_number   Naive_inference 
+2  0
+performance for each sample:
+sample_number   Naive_inference 
+3  0.5
+performance for each sample:
+sample_number   Naive_inference 
+4  0.666667
+performance for each sample:
+sample_number   Naive_inference 
+5  0.5
+performance for each sample:
+sample_number   Naive_inference 
+6  0.5
+performance for each sample:
+sample_number   Naive_inference 
+7  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+8  0
+performance for each sample:
+sample_number   Naive_inference 
+9  0.833333
+performance for each sample:
+sample_number   Naive_inference 
+10  0.5
+performance for each sample:
+sample_number   Naive_inference 
+11  0
+performance for each sample:
+sample_number   Naive_inference 
+12  0.333333
+performance for each sample:
+sample_number   Naive_inference 
+13  0.5
+performance for each sample:
+sample_number   Naive_inference 
+14  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+15  0
+performance for each sample:
+sample_number   Naive_inference 
+16  0
+performance for each sample:
+sample_number   Naive_inference 
+17  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+18  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+19  0.5
+performance for each sample:
+sample_number   Naive_inference 
+20  0
+performance for each sample:
+sample_number   Naive_inference 
+21  0
+performance for each sample:
+sample_number   Naive_inference 
+22  0
+performance for each sample:
+sample_number   Naive_inference 
+23  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+24  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+25  0.5
+performance for each sample:
+sample_number   Naive_inference 
+26  0.666667
+performance for each sample:
+sample_number   Naive_inference 
+27  0.666667
+performance for each sample:
+sample_number   Naive_inference 
+28  0.333333
+performance for each sample:
+sample_number   Naive_inference 
+29  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+30  0.666667
+performance for each sample:
+sample_number   Naive_inference 
+31  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+32  0.333333
+performance for each sample:
+sample_number   Naive_inference 
+33  0
+performance for each sample:
+sample_number   Naive_inference 
+34  0
+performance for each sample:
+sample_number   Naive_inference 
+35  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+36  0.5
+performance for each sample:
+sample_number   Naive_inference 
+37  0.5
+performance for each sample:
+sample_number   Naive_inference 
+38  0.5
+performance for each sample:
+sample_number   Naive_inference 
+39  0.333333
+performance for each sample:
+sample_number   Naive_inference 
+40  0
+performance for each sample:
+sample_number   Naive_inference 
+41  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+42  0.333333
+performance for each sample:
+sample_number   Naive_inference 
+43  0.166667
+performance for each sample:
+sample_number   Naive_inference 
+44  0
+-------------------------------
+performance for all the sample:
+    Naive_inference
+0.281481  
+accuracy for each part using Naive inference
+0.2  0.244444  0.333333  0.288889  0.311111  0.311111  

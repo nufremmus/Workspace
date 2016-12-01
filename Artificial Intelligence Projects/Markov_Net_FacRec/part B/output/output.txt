@@ -1,0 +1,141 @@
+performance for each sample:
+sample_number  graph(b)  
+0  0.666667
+performance for each sample:
+sample_number  graph(b)  
+1  0.833333
+performance for each sample:
+sample_number  graph(b)  
+2  0.166667
+performance for each sample:
+sample_number  graph(b)  
+3  0.833333
+performance for each sample:
+sample_number  graph(b)  
+4  0.833333
+performance for each sample:
+sample_number  graph(b)  
+5  0.666667
+performance for each sample:
+sample_number  graph(b)  
+6  0.666667
+performance for each sample:
+sample_number  graph(b)  
+7  0.5
+performance for each sample:
+sample_number  graph(b)  
+8  0
+performance for each sample:
+sample_number  graph(b)  
+9  1
+performance for each sample:
+sample_number  graph(b)  
+10  0.833333
+performance for each sample:
+sample_number  graph(b)  
+11  0.166667
+performance for each sample:
+sample_number  graph(b)  
+12  0.166667
+performance for each sample:
+sample_number  graph(b)  
+13  0.5
+performance for each sample:
+sample_number  graph(b)  
+14  0
+performance for each sample:
+sample_number  graph(b)  
+15  0.5
+performance for each sample:
+sample_number  graph(b)  
+16  0
+performance for each sample:
+sample_number  graph(b)  
+17  0.333333
+performance for each sample:
+sample_number  graph(b)  
+18  0.333333
+performance for each sample:
+sample_number  graph(b)  
+19  0.333333
+performance for each sample:
+sample_number  graph(b)  
+20  0
+performance for each sample:
+sample_number  graph(b)  
+21  0
+performance for each sample:
+sample_number  graph(b)  
+22  0.166667
+performance for each sample:
+sample_number  graph(b)  
+23  0
+performance for each sample:
+sample_number  graph(b)  
+24  0.166667
+performance for each sample:
+sample_number  graph(b)  
+25  0.666667
+performance for each sample:
+sample_number  graph(b)  
+26  0.833333
+performance for each sample:
+sample_number  graph(b)  
+27  1
+performance for each sample:
+sample_number  graph(b)  
+28  0.666667
+performance for each sample:
+sample_number  graph(b)  
+29  0.166667
+performance for each sample:
+sample_number  graph(b)  
+30  0.833333
+performance for each sample:
+sample_number  graph(b)  
+31  0.166667
+performance for each sample:
+sample_number  graph(b)  
+32  0.333333
+performance for each sample:
+sample_number  graph(b)  
+33  0
+performance for each sample:
+sample_number  graph(b)  
+34  0
+performance for each sample:
+sample_number  graph(b)  
+35  0.166667
+performance for each sample:
+sample_number  graph(b)  
+36  0.5
+performance for each sample:
+sample_number  graph(b)  
+37  0.833333
+performance for each sample:
+sample_number  graph(b)  
+38  0.5
+performance for each sample:
+sample_number  graph(b)  
+39  0.333333
+performance for each sample:
+sample_number  graph(b)  
+40  0
+performance for each sample:
+sample_number  graph(b)  
+41  0.166667
+performance for each sample:
+sample_number  graph(b)  
+42  0.833333
+performance for each sample:
+sample_number  graph(b)  
+43  0.166667
+performance for each sample:
+sample_number  graph(b)  
+44  0
+-------------------------------
+performance for all the sample:
+ graph(b)     
+0.396296
+method = b accuracy for each part
+0.377778  0.377778  0.444444  0.4  0.422222  0.355556  

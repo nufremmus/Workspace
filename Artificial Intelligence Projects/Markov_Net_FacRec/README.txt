@@ -1,0 +1,1 @@
+Please add the original file 'imgs' to each  directory 'Naive' 'part B' 'part C' and 'part D'.
