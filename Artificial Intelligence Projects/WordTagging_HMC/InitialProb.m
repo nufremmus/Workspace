@@ -1,9 +1,9 @@
-
+% to find initial probability from training data
 %--add paths to the directories
 p = genpath(pwd);
 addpath(p);
 
-load FinalData; 
+load FinalData;
 load state;
 
 % count(i) stores the number of sentences that start from state i.
@@ -32,7 +32,7 @@ for l=1:M
 	   count(j) = count(j) + 1;
 	end
 	i=j; %for the next round, the index for current state becomes that for the previous state
-	
+
 	%save the variables count and l every 10000 steps
 	if mod(l,10000)==0
 	     l
@@ -42,8 +42,8 @@ end
 
 save Count_initial count l
 
-totalcount = sum(count); %i-th entry stores the sum of the numbers of transitions from a specific state i to different state j's; 
+totalcount = sum(count); %i-th entry stores the sum of the numbers of transitions from a specific state i to different state j's;
 
-p_initial = count/totalcount; 
+p_initial = count/totalcount;
 
 save InitialProbability p_initial

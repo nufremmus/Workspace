@@ -11,9 +11,9 @@ function [new_tags Itag]= sampling(new_words)
 %p1 stores the distribution of tags at the start of a sentence
 %trans(i,j) = p(S_{t} = state(j)|S_{t-1} = state(i))
 
+%global state p_ws p_s p1 trans vocabulary alpha stage
+global state p_ws p_s p1 trans vocabulary
 
-global state p_ws p_s p1 trans vocabulary alpha stage
- 
 [m n] = size(new_words);
 M = max(m,n); % M is the length of the test sentence
 

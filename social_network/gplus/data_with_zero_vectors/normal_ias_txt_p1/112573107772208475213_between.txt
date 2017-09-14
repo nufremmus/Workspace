@@ -1,0 +1,11224 @@
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+9.166439E-01
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+9.095815E-01
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+8.885575E-01
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+1.000000E+00
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+1.000000E+00
+   NaN
+1.000000E+00
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN
+   NaN

@@ -1,0 +1,18 @@
+in gplus, take the plots that have median differences >=0.0643
+in fb, take the plots that have median differences >=0.0611
+
+in fb, take 
+
+>>  [r,c,v] = ind2sub(size(difference),find(difference >=0.0560));
+>> [r,c,v]
+
+ans =
+
+     1     1     4
+     2     1     4
+     1     1     5
+     2     1     5
+
+in gplus, take
+
+ [r,c,v] = ind2sub(size(difference),find(difference >=0.0643));

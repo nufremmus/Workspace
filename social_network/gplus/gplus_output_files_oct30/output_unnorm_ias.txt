@@ -1,0 +1,661 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> 
+ working on file 100535338638690515335
+Wilcoxon p-value normalized with p =1 is: 4.940656E-323
+
+len1 =
+
+       12740
+
+
+len2 =
+
+        2652
+
+   t-test p-value normalized with p=1 is: 0.000000E+00
+Wilcoxon p-value normalized with p =2 is: 0.000000E+00
+
+len1 =
+
+       12740
+
+
+len2 =
+
+        2652
+
+   t-test p-value normalized with p=2 is: 0.000000E+00
+
+ working on file 101626577406833098387
+Wilcoxon p-value normalized with p =1 is: 1.194408E-286
+
+len1 =
+
+       35512
+
+
+len2 =
+
+       37056
+
+   t-test p-value normalized with p=1 is: 3.612806E-315
+Wilcoxon p-value normalized with p =2 is: 0.000000E+00
+
+len1 =
+
+       35512
+
+
+len2 =
+
+       37056
+
+   t-test p-value normalized with p=2 is: 0.000000E+00
+
+ working on file 103236949470535942612
+Wilcoxon p-value normalized with p =1 is: 2.445732E-08
+
+len1 =
+
+        2844
+
+
+len2 =
+
+        6162
+
+   t-test p-value normalized with p=1 is: 3.538317E-04
+Wilcoxon p-value normalized with p =2 is: 9.159204E-10
+
+len1 =
+
+        2844
+
+
+len2 =
+
+        6162
+
+   t-test p-value normalized with p=2 is: 1.130786E-03
+
+ working on file 103241736833663734962
+Wilcoxon p-value normalized with p =1 is: 5.069504E-145
+
+len1 =
+
+        2623
+
+
+len2 =
+
+        1806
+
+   t-test p-value normalized with p=1 is: 1.903795E-159
+Wilcoxon p-value normalized with p =2 is: 9.171443E-138
+
+len1 =
+
+        2623
+
+
+len2 =
+
+        1806
+
+   t-test p-value normalized with p=2 is: 3.587674E-155
+
+ working on file 103752943025677384806
+Wilcoxon p-value normalized with p =1 is: 4.247159E-34
+
+len1 =
+
+      103750
+
+
+len2 =
+
+       62250
+
+   t-test p-value normalized with p=1 is: 3.198561E-47
+Wilcoxon p-value normalized with p =2 is: 8.763284E-30
+
+len1 =
+
+      103750
+
+
+len2 =
+
+       62250
+
+   t-test p-value normalized with p=2 is: 1.490022E-48
+
+ working on file 104226133029319075907
+Wilcoxon p-value normalized with p =1 is: 4.376242E-07
+
+len1 =
+
+        3024
+
+
+len2 =
+
+        3906
+
+   t-test p-value normalized with p=1 is: 6.532836E-03
+Wilcoxon p-value normalized with p =2 is: 6.323031E-06
+
+len1 =
+
+        3024
+
+
+len2 =
+
+        3906
+
+   t-test p-value normalized with p=2 is: 6.079234E-02
+
+ working on file 104607825525972194062
+Wilcoxon p-value normalized with p =1 is: 6.052826E-27
+
+len1 =
+
+        1036
+
+
+len2 =
+
+   756
+
+   t-test p-value normalized with p=1 is: 2.182363E-30
+Wilcoxon p-value normalized with p =2 is: 5.757766E-29
+
+len1 =
+
+        1036
+
+
+len2 =
+
+   756
+
+   t-test p-value normalized with p=2 is: 1.496339E-34
+
+ working on file 107223200089245371832
+Wilcoxon p-value normalized with p =1 is: 0.000000E+00
+
+len1 =
+
+      108061
+
+
+len2 =
+
+      264425
+
+   t-test p-value normalized with p=1 is: 0.000000E+00
+Wilcoxon p-value normalized with p =2 is: 0.000000E+00
+
+len1 =
+
+      108061
+
+
+len2 =
+
+      264425
+
+   t-test p-value normalized with p=2 is: 0.000000E+00
+
+ working on file 107362628080904735459
+Wilcoxon p-value normalized with p =1 is: 5.844092E-310
+
+len1 =
+
+       32560
+
+
+len2 =
+
+        5402
+
+   t-test p-value normalized with p=1 is: 1.608146E-314
+Wilcoxon p-value normalized with p =2 is: 6.186312E-255
+
+len1 =
+
+       32560
+
+
+len2 =
+
+        5402
+
+   t-test p-value normalized with p=2 is: 6.048075E-283
+
+ working on file 109596373340495798827
+Wilcoxon p-value normalized with p =1 is: 3.653657E-01
+
+len1 =
+
+   728
+
+
+len2 =
+
+   650
+
+   t-test p-value normalized with p=1 is: 6.604638E-01
+Wilcoxon p-value normalized with p =2 is: 2.365206E-01
+
+len1 =
+
+   728
+
+
+len2 =
+
+   650
+
+   t-test p-value normalized with p=2 is: 8.930647E-01
+
+ working on file 110538600381916983600
+Wilcoxon p-value normalized with p =1 is: 0.000000E+00
+
+len1 =
+
+      282905
+
+
+len2 =
+
+      203223
+
+   t-test p-value normalized with p=1 is: 0.000000E+00
+Wilcoxon p-value normalized with p =2 is: 0.000000E+00
+
+len1 =
+
+      282905
+
+
+len2 =
+
+      203223
+
+   t-test p-value normalized with p=2 is: 0.000000E+00
+
+ working on file 111048918866742956374
+Wilcoxon p-value normalized with p =1 is: 1.810857E-05
+
+len1 =
+
+        1702
+
+
+len2 =
+
+        2070
+
+   t-test p-value normalized with p=1 is: 3.031120E-05
+Wilcoxon p-value normalized with p =2 is: 5.219455E-03
+
+len1 =
+
+        1702
+
+
+len2 =
+
+        2070
+
+   t-test p-value normalized with p=2 is: 1.757101E-03
+
+ working on file 111091089527727420853
+Wilcoxon p-value normalized with p =1 is: 6.298893E-173
+
+len1 =
+
+       49735
+
+
+len2 =
+
+       59780
+
+   t-test p-value normalized with p=1 is: 1.683855E-177
+Wilcoxon p-value normalized with p =2 is: 2.229460E-144
+
+len1 =
+
+       49735
+
+
+len2 =
+
+       59780
+
+   t-test p-value normalized with p=2 is: 1.309669E-136
+
+ working on file 112573107772208475213
+Wilcoxon p-value normalized with p =1 is: 1.284977E-21
+
+len1 =
+
+       11224
+
+
+len2 =
+
+   506
+
+   t-test p-value normalized with p=1 is: 1.646999E-22
+Wilcoxon p-value normalized with p =2 is: 1.284977E-21
+
+len1 =
+
+       11224
+
+
+len2 =
+
+   506
+
+   t-test p-value normalized with p=2 is: 1.881839E-22
+
+ working on file 113597493946570654755
+Wilcoxon p-value normalized with p =1 is: 0.000000E+00
+
+len1 =
+
+       11050
+
+
+len2 =
+
+        4160
+
+   t-test p-value normalized with p=1 is: 0.000000E+00
+Wilcoxon p-value normalized with p =2 is: 0.000000E+00
+
+len1 =
+
+       11050
+
+
+len2 =
+
+        4160
+
+   t-test p-value normalized with p=2 is: 0.000000E+00
+
+ working on file 113799277735885972934
+Wilcoxon p-value normalized with p =1 is: 2.201828E-211
+
+len1 =
+
+       13720
+
+
+len2 =
+
+        9506
+
+   t-test p-value normalized with p=1 is: 1.811053E-239
+Wilcoxon p-value normalized with p =2 is: 4.818456E-13
+
+len1 =
+
+       13720
+
+
+len2 =
+
+        9506
+
+   t-test p-value normalized with p=2 is: 1.200971E-25
+
+ working on file 113881433443048137993
+Wilcoxon p-value normalized with p =1 is: 6.161717E-194
+
+len1 =
+
+        2821
+
+
+len2 =
+
+   930
+
+   t-test p-value normalized with p=1 is: 4.289214E-226
+Wilcoxon p-value normalized with p =2 is: 8.205489E-174
+
+len1 =
+
+        2821
+
+
+len2 =
+
+   930
+
+   t-test p-value normalized with p=2 is: 8.901981E-214
+
+ working on file 115121555137256496805
+Wilcoxon p-value normalized with p =1 is: 2.954081E-01
+
+len1 =
+
+   750
+
+
+len2 =
+
+   600
+
+   t-test p-value normalized with p=1 is: 1.030181E-01
+Wilcoxon p-value normalized with p =2 is: 7.794197E-01
+
+len1 =
+
+   750
+
+
+len2 =
+
+   600
+
+   t-test p-value normalized with p=2 is: 1.334384E-01
+
+ working on file 115360471097759949621
+Wilcoxon p-value normalized with p =1 is: 7.756042E-01
+
+len1 =
+
+   130
+
+
+len2 =
+
+   156
+
+   t-test p-value normalized with p=1 is: 3.591716E-01
+Wilcoxon p-value normalized with p =2 is: 8.154867E-01
+
+len1 =
+
+   130
+
+
+len2 =
+
+   156
+
+   t-test p-value normalized with p=2 is: 3.565064E-01
+
+ working on file 115455024457484679647
+Wilcoxon p-value normalized with p =1 is: 2.137964E-40
+
+len1 =
+
+        6732
+
+
+len2 =
+
+       23256
+
+   t-test p-value normalized with p=1 is: 3.125214E-51
+Wilcoxon p-value normalized with p =2 is: 3.666226E-40
+
+len1 =
+
+        6732
+
+
+len2 =
+
+       23256
+
+   t-test p-value normalized with p=2 is: 3.948463E-42
+
+ working on file 115573545440464933254
+Wilcoxon p-value normalized with p =1 is: 3.794419E-236
+
+len1 =
+
+        8342
+
+
+len2 =
+
+        7310
+
+   t-test p-value normalized with p=1 is: 1.987741E-277
+Wilcoxon p-value normalized with p =2 is: 2.717720E-293
+
+len1 =
+
+        8342
+
+
+len2 =
+
+        7310
+
+   t-test p-value normalized with p=2 is: 0.000000E+00
+
+ working on file 116315897040732668413
+Wilcoxon p-value normalized with p =1 is: 6.547184E-16
+
+len1 =
+
+   288
+
+
+len2 =
+
+   552
+
+   t-test p-value normalized with p=1 is: 7.406150E-20
+Wilcoxon p-value normalized with p =2 is: 4.198148E-19
+
+len1 =
+
+   288
+
+
+len2 =
+
+   552
+
+   t-test p-value normalized with p=2 is: 3.126387E-24
+
+ working on file 116825083494890429556
+Wilcoxon p-value normalized with p =1 is: 2.403895E-13
+
+len1 =
+
+        2720
+
+
+len2 =
+
+        1560
+
+   t-test p-value normalized with p=1 is: 3.894849E-17
+Wilcoxon p-value normalized with p =2 is: 4.106297E-09
+
+len1 =
+
+        2720
+
+
+len2 =
+
+        1560
+
+   t-test p-value normalized with p=2 is: 1.094688E-14
+
+ working on file 118107045405823607895
+Wilcoxon p-value normalized with p =1 is: 2.659729E-23
+
+len1 =
+
+       28423
+
+
+len2 =
+
+      244025
+
+   t-test p-value normalized with p=1 is: 1.133144E-13
+Wilcoxon p-value normalized with p =2 is: 2.037442E-37
+
+len1 =
+
+       28423
+
+
+len2 =
+
+      244025
+
+   t-test p-value normalized with p=2 is: 1.860783E-20
+
+ working on file 118379821279745746467
+Wilcoxon p-value normalized with p =1 is: 2.625825E-16
+
+len1 =
+
+        1442
+
+
+len2 =
+
+       10506
+
+   t-test p-value normalized with p=1 is: 2.718511E-15
+Wilcoxon p-value normalized with p =2 is: 8.598525E-17
+
+len1 =
+
+        1442
+
+
+len2 =
+
+       10506
+
+   t-test p-value normalized with p=2 is: 1.216727E-15
+>> 

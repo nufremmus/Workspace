@@ -12,8 +12,8 @@ function [new_tag answer] = SimpleBayes(new_word)
 %state : stores the 12 tags;state is a cell array
 %p_s : stores the distribution of the tags in the training data; p_s(i) stores the percentage of state(i)
 %p_ws : stores the conditional probability p(w|s); p_ws(i,j) = p(wj|si).
-global state p_ws p_s vocabulary alpha stage
- 
+%global state p_ws p_s vocabulary alpha stage
+ global state p_ws p_s vocabulary
 %initialization
 pp_ws  = zeros(12,1);
  %tag(answer) is the optimal tag for new_word

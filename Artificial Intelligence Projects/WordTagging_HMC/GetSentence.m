@@ -1,4 +1,4 @@
-function [y,i_start,i_end]=GetSentence(start,x);
+function [y,i_start,i_end]=GetSentence(start,x)
 %x is a cell array with strings
 %i is the starting index for the sentence in x
 %we are trying to get a sentence starting at x(start)
