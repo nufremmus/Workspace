@@ -5,7 +5,7 @@ function dy_int = derivative_interior(a,b,N, data, k,method)
 % k : the number of points on the substencils 
 G = Coeff_Matrix(k);
 
-[C,GG] = Coeff_Emma(k,method);
+[C,GG] = Coeff_yang(k,method);
 
 %initialization
 dy_int = zeros(N+1,1);

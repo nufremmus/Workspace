@@ -1,4 +1,4 @@
-function [Coeff,GG] = Coeff_Emma(k,method)
+function [Coeff,GG] = Coeff_yang(k,method)
 
 %call Coeff_Matrix
 G = Coeff_Matrix(k);
