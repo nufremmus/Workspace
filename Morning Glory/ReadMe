@@ -1,0 +1,8 @@
+Morning Glory Data (private): we have three variable for each species, the average seed mass, the number among the samples that have ergot alkaloids, and the number of the samples. In our experiment we treat seed mass as an covariate, and the presence of ergot alkaloids ( proportion of samples that have ergot alkaloids) as the response variable.
+
+Goal/question: Correlation between seed mass and presence of alkaloids might have both of the sources : phylogenetic correlation + unknown correlation.
+We know for sure that there is phylogenetic correlation. But is there also unknown correlation present between those variables?
+
+GEELogRegr.R : We used generalized estimating equations on logistic regression using Morning Glory family Data to estimate parameters. And then we nonparametrically simulated a null distribution of the estimated parameters and obtained an approximated p-value.
+
+MCSimulation.R: Based on the seed mass and samples size in the original data, we generated the number of samples with ergot alkaloids incorporating both phylogenetic correlation, correlation between the variables (excluding phylogenetic correlation), and sampling bias. Then we apply the method in GEELogRegr to the artificial data to validate our approach. It shows that our approach gives the correct answer.
